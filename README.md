@@ -11,7 +11,7 @@ I'm a passionate Full Stack Web Developer with a strong foundation in Java and a
 
 ## 🔧 Projects
 
-### PayTM replica paytm
+### PayTM replica [paytm](https://github.com/Gur3399/paytm.git)
 
 Short description of the project, highlighting its purpose, technologies used, and your role in its development.
 
