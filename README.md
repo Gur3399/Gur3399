@@ -15,7 +15,7 @@ I'm a passionate Full Stack Web Developer with a strong foundation in Java and a
 
 Paytm is application used to send money and receive money.
 i have built replica and hosted it locally.
-#features:
+**features:
 1. send or receive money
 2. search user to send money
 3. encrypted using middlewares and authentications
