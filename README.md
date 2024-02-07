@@ -13,7 +13,12 @@ I'm a passionate Full Stack Web Developer with a strong foundation in Java and a
 
 ### PayTM replica [paytm](https://github.com/Gur3399/paytm.git)
 
-Short description of the project, highlighting its purpose, technologies used, and your role in its development.
+Paytm is application used to send money and receive money.
+i have built replica and hosted it locally.
+#features:
+1. send or receive money
+2. search user to send money
+3. encrypted using middlewares and authentications
 
 ## 🌱 Currently Learning
 
