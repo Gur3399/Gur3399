@@ -20,6 +20,11 @@ i have built replica and hosted it locally.
 2. search user to send money
 3. encrypted using middlewares and authentications
 
+## 🎓 Gurjot. Analytics 
+
+It is front page for the Data Analytics business. 
+ - **features**
+
 ## 🌱 Currently Learning
 
 I'm constantly expanding my skill set. Currently focused on web technologies.
